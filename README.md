@@ -1,4 +1,7 @@
-Contributing to MERN-cht
+<img src="https://hacktoberfest.com/_next/static/media/opengraph.9dc60c9d.png" alt="Banner Image" style="width:100%; height:auto;" />
+
+
+MERN-CHAT For Hacktoberfest
 ========================
 
 Thank you for considering contributing to **MERN-cht**! We appreciate your help and efforts to make this project better.
@@ -14,7 +17,7 @@ We're participating in **Hacktoberfest 2024**, and we'd love for you to join in.
     
 2.  **Clone the repository**
     
-3.  bashCopy codegit clone https://github.com/your-username/MERN-cht.gitcd MERN-cht
+3.  bashCopy codegit clone https://github.com/kaptan-99/MERN-CHAT-COLLAB-HACKTOBERFEST.git
     
 4.  bashCopy codenpm install
     
@@ -42,7 +45,7 @@ By participating in this project, you agree to uphold our Code of Conduct, which
 
 To run the project locally:
 
-1.  bashCopy codeMONGO\_URI=your-mongodb-uri
+1.  bashCopy code MONGO\_URI=your-mongodb-uri
     
 2.  bashCopy codenpm run dev
     
@@ -85,3 +88,4 @@ When you're ready to submit your changes:
 ### License
 
 By contributing to MERN-cht, you agree that your contributions will be licensed under the MIT License.
+"# MERN-CHAT-HACKTOBERFEST" 
