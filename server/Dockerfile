@@ -7,3 +7,5 @@ COPY . .
 EXPOSE 5000
 
 CMD ["npm","start"]
+
+# Hello this is docker file for server
