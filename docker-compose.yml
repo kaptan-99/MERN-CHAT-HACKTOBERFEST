@@ -8,3 +8,5 @@ services:
     build: ./server
     ports:
       - 5000:5000
+
+# Hello this is a docker compose file

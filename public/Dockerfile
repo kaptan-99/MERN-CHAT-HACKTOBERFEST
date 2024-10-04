@@ -7,3 +7,5 @@ COPY . .
 EXPOSE 3000
 
 CMD ["npm","start"]
+
+# Hello this is docker file for public
